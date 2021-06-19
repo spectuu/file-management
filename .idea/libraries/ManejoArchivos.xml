@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ManejoArchivos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ManejoArchivos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
